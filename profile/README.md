@@ -14,6 +14,12 @@
         <h2>📈 Our Mission:</h2>
         <p>🌐 Our mission is to foster a robust and decentralized future, where crypto networks are secure, efficient, and accessible to all. Join us in this journey! 🛣️</p>
     </section>
+    <section>
+        <h2>⛓️ Our Links:</h2>
+        <ul>
+            <li>🦇 Twitter - <a href="https://x.com/Piscaraf">@Piscaraf</a></li>
+        </ul>
+    </section>
     <footer>
         <p>📢 Let's connect and make a splash in the world of cryptocurrency together! 🌊</p>
     </footer>
