@@ -1,7 +1,7 @@
-<body>
-    <header align=center>
-        <h1>🌟 Welcome to Piscara Team's Profile! 🌟</h1>
-    </header>
+
+<section align=center>
+    <h1>🌟 Welcome to Piscara Team's Profile! 🌟</h1>
+</section>
     <section>
         <h2>🚀 About Us:</h2>
         <p>🔧 We're a team of crypto enthusiasts and tech wizards known as <strong>Piscara Team</strong>. Our expertise lies in supporting a vast network of validators and nodes, ensuring the blockchain's integrity and performance. 🛠️</p>
@@ -23,4 +23,4 @@
     <footer>
         <p>📢 Let's connect and make a splash in the world of cryptocurrency together! 🌊</p>
     </footer>
-</body>
+
