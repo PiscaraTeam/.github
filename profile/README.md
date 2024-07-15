@@ -1,5 +1,5 @@
 <body>
-    <header>
+    <header align=center>
         <h1>🌟 Welcome to Piscara Team's Profile! 🌟</h1>
     </header>
     <section>
