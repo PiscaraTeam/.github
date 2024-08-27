@@ -9,6 +9,10 @@
     <section >
         <h2>👥 Our Experience:</h2>
         <p>💼 With years of experience in the cryptocurrency realm, we've become a cornerstone of the validator community, contributing to its strength and resilience. 🏗️</p>
+            <li>0G labs - <a href="https://testnet.0g.explorers.guru/validator/0gvaloper1ztftq06fhetuupzeejywtqp2pzme6vuew7emx6">Explorer</a></li>
+            <li>Aligned layer - <a href="https://medium.com/@PiscaraTeam/aligned-layer-node-setup-guide-by-piscarateam-b9010d07225d">Guide</a></li>
+            <li>Tea - <a href="">In the proccess</a></li>
+            <li>Dwallet - <a href="">In the proccess</a></li>
     </section>
     <section >
         <h2>📈 Our Mission:</h2>
@@ -17,7 +21,9 @@
     <section >
         <h2>⛓️ Our Links:</h2>
         <ul>
-            <li>🦇 Twitter - <a href="https://x.com/Piscaraf">@Piscaraf</a></li>
+            <li>Twitter - <a href="https://x.com/Piscaraf">@Piscaraf</a></li>
+            <li>Discord - <a href="">@muphinnz7996</a></li>
+            <li>Discord - <a href="https://medium.com/@PiscaraTeam">Medium</a></li>
         </ul>
     </section>
     <section >
